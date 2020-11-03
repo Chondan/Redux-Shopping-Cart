@@ -1,0 +1,28 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+nav {
+	background-color: rgba(0, 0, 0, .8);
+	color: white;
+	padding: 15px;
+	position: sticky;
+	top: 0;
+	z-index: 10;
+}
+.navbar-container {
+	list-style: none;
+	display: flex;
+	justify-content: space-between;
+}
+.navbar-container a {
+	margin: 5px;
+	cursor: pointer;
+	text-decoration: none;
+	color: white;
+	font-size: large;
+}
+.navbar-container a:hover {
+	color: red;
+}
