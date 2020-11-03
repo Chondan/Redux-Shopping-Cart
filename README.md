@@ -1,5 +1,7 @@
 # Redux Shopping Cart
 
+Go to application: https://chondan.github.io/Redux-Shopping-Cart
+
 Components
 - Navbar -> AppName, Shooping cart (show number of selected items)
 - Item Lists 
